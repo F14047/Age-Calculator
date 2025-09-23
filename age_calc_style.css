@@ -1,0 +1,14 @@
+body {
+    background-color: beige;
+    text-align: center;
+}
+
+.dob {
+    font-size: 10px;
+}
+
+#calculator {
+    border: solid 1px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
